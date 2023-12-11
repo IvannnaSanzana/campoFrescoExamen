@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316552302888",
+    "project_id": "campofrescoexamen",
+    "storage_bucket": "campofrescoexamen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316552302888:android:1bf9ba6f25f2dbe79e801d",
+        "android_client_info": {
+          "package_name": "com.ivi.campofrescoexamen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT3YZIn5Ys-rwyh3DdArTzQnzccUWv6gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
