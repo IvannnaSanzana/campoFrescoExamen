@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="google_maps_key" templatteMergeStrategy = "preserve" translatable="false">AIzaSyCPARW-TSA5x6iqpHy_Qqgp7rv5zGh29Lo</string>
+</resources>
